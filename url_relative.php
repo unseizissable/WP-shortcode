@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin name: 	url relative
-Plugin URI:		https://www.wpserveur.net
+Plugin URI:	https://www.wpserveur.net
 Description: 	Permet d'utiliser le shortcode [site_url] dans les liens pour avoir toutes les url meme des images en absolu . il permet de changer de nom de domaine sans avoir a changer toutes les url internes
-Author: 		WPServeur
+Author: 	WPServeur
 Author URI: 	https://www.wpserveur.net
-Version: 		1.1.1
+Version: 	1.1.1
 */
 defined( 'ABSPATH' ) or	die( 'Cheatin\' uh?' );
 
