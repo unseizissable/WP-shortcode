@@ -22,7 +22,7 @@ function site_url_relative_slash() {
 }
 add_shortcode('site_url_slash', 'site_url_relative_slash');
 
-//shortcode pour afficher les shortcodes sans les éxecuter
+//shortcode pour afficher les shortcodes sans les éxecuter dans la page
 
 function cutshortcode( $atts ) {
 	extract ( shortcode_atts ( array(
